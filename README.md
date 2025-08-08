@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tosin Ayomide Adeleye
 
-**Backend Software Engineer | ALX Africa Graduate | Technical Product Manager**
+**Software Engineer | Backend Developer | Technical Product Manager**
 
 Welcome to my GitHub! I’m a passionate and performance-driven software engineer, building scalable, high-availability backend solutions and exploring DevOps, scripting, and open source.
 
@@ -8,9 +8,10 @@ Welcome to my GitHub! I’m a passionate and performance-driven software enginee
 
 ## 💼 About Me
 
-I'm a seasoned backend developer with over **2 years** of experience architecting APIs and microservices with **Node.js, Python, SQL**, and Linux systems. I’ve designed production-level systems that handle **10K+ daily requests** with a **99.9% uptime guarantee**.
+I'm a seasoned backend developer with over **2 years** of experience architecting APIs and microservices with **Node.js, Python, SQL**, and Linux systems. 
+I’ve designed production-level systems that handle **10K+ daily requests** with a **99.9% uptime guarantee**.
 
-🔧 As a Product Manager, I led a team to launch a real-time analytics dashboard that increased decision-making speed by 40%, reduced deployment time by 50%, and cut bugs by 25% — thanks to CI/CD and thorough testing.
+🔧 As a Product Manager, I led a team to launch a real-time analytics dashboard that increased decision-making speed by 40%, reduced deployment time by 50%, and cut bugs by 25%, thanks to CI/CD and thorough testing.
 
 📚 I’m an ALX SE Foundations and Professional graduate, Microsoft Learn and LinkedIn certified in Software Engineering, and active in global learning circles and tech communities.
 
@@ -51,7 +52,7 @@ Explore my YouTube channel: [youtube.com/tosinkuzzy](https://youtube.com/tosinku
 | Certificate | Issuer |
 |-------------|--------|
 | Professional Foundations | ALX Africa |
-| SE Foundations Transcript | ALX Africa |
+| SE Foundations | ALX Africa |
 | Career Essentials in Software Development | Microsoft & LinkedIn |
 | DevOps, Ethical Hacking, SMTP Systems | Personal Study Projects |
 | English for IT | Cisco Networking Academy |
@@ -73,7 +74,7 @@ Explore case studies, blog posts, designs, and learning challenges:
 - 🐦 [Twitter](https://twitter.com/Tosinkuzzy)
 - 🎥 [YouTube](https://www.youtube.com/tosinkuzzy)
 - 🎵 [TikTok](https://www.tiktok.com/@tosinkuzzy)
-- 📘 [Facebook](https://www.facebook.com/tosinkuzzy)
+- 📘 [Facebook](https://web.facebook.com/ToSinKuZzyonLy)
 
 ---
 
