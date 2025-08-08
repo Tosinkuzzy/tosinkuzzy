@@ -1,5 +1,4 @@
 <!-- Profile Header -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Tosinkuzzy&color=blue&style=flat-square)
 
 <h1 align="center"> Hi, I'm Tosin Ayomide Adeleye (Tosinkuzzy)</h1>
 <p align="center">
@@ -114,4 +113,3 @@
 <p align="center"><i>“Tell your story through code, content, and community.”</i></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tosinkuzzy&label=PROFILE+VIEWS)
-
