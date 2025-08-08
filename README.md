@@ -1,5 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">�� Hi, I'm Tosin Ayomide Adeleye (Tosinkuzzy)</h1>
+![Visitor Count](https://komarev.com/ghpvc/?username=Tosinkuzzy&color=blue&style=flat-square)
+
+<h1 align="center"> Hi, I'm Tosin Ayomide Adeleye (Tosinkuzzy)</h1>
 <p align="center">
   Software Engineer • Backend Developer • Technical Product Manager •
 </p>
@@ -103,10 +105,13 @@
   - GitHub: <a href="https://github.com/Tosinkuzzy">github.com/Tosinkuzzy</a>
   - YouTube: <a href="https://www.youtube.com/@tosinkuzzy">youtube.com/@tosinkuzzy</a>
   - TikTok: <a href="https://www.tiktok.com/@tosinkuzzy">tiktok.com/@tosinkuzzy</a>
-  - Email: (mailto:adeleye608@gmail.com)
+   Facebook: <a href="https://web.facebook.com/ToSinKuZzyonLy/">web.facebook.com/ToSinKuZzyonLy</a>
+  - Email: mailto:adeleye608@gmail.com
 </details>
 
 ---
 
 <p align="center"><i>“Tell your story through code, content, and community.”</i></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tosinkuzzy&label=PROFILE+VIEWS)
 
